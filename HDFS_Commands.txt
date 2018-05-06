@@ -1,0 +1,6 @@
+HDFS commands are similar to unix commands like ls, mv, rm
+
+all HDFS commands start with hadoop fs
+
+fs stands for file system
+
