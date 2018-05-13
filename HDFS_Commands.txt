@@ -4,3 +4,13 @@ all HDFS commands start with hadoop fs
 
 fs stands for file system
 
+#
+
+hadoop version
+
+hadoop fs -ls
+
+hadoop fs -put <filename> <hdfsfilepath>
+
+hadoop fs -get <hdfsfilepath>
+
